@@ -1,0 +1,765 @@
+.photo1{
+    margin-top: -1%;
+    margin-left: -1%;
+    width: 1920px;
+    height: 894.3px;
+}
+
+.logo{
+    position: absolute;
+    left: 7%;
+    top: 9%;
+    color: white;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icon1{
+    position: absolute;
+    left: 90%;
+    top: 7%;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+}
+.title{
+    position: absolute;
+    left: 7%;
+    top: 37%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title1{
+    font-size: 50px;
+}
+.sub-title{
+    font-size: 20px;
+}
+.btn1{
+    position: absolute;
+    left: 0%;
+    top: 120%;
+    width: 30%;
+    height: 30%;
+    font-size: 20px;
+    background-color: rgb(216, 216, 72);
+    border: 2px solid rgb(216, 216, 72);
+    cursor: pointer;
+}
+
+.title-le{
+    margin-top: 150px; 
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pizzza{
+    margin-top: 5%;
+    margin-left: -1150px;
+}
+.pizza{
+    font-size: 50px;
+    color: black;
+}
+.pizza2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    color:  rgb(216, 216, 72) ;
+}
+.sub-title2{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.chicks{
+    margin-top: -250px;
+    margin-left: -400px;
+}
+.burger{
+    margin-top: -250px;
+    margin-left: 400px;
+}
+
+.chicken{
+    margin-top: -250px;
+    margin-left: 1150px;
+}
+.photo2{
+    position: relative;
+    left: 350px;
+    top: 200px;
+    width: 600px;
+    height: 700px;
+    z-index: 1;
+}
+.yellow{
+    background-color: rgb(216, 216, 72);
+    width: 600px;
+    height: 700px;
+    position: relative;
+    left: 950px;
+    top: -504px;
+    z-index: 1;
+}
+.about{
+    position: absolute;
+    left: 1000px;
+    top: 1800px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}
+.sub-title-about{
+    position: absolute;
+    left: 1000px;
+    top: 1950px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}
+.info1{
+    position: absolute;
+    left: 1000px;
+    top: 2050px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}
+.info2{
+    position: absolute;
+    left: 1000px;
+    top: 2100px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}
+.info3{
+    position: absolute;
+    left: 1000px;
+    top: 2150px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}
+.info4{
+    position: absolute;
+    left: 1000px;
+    top: 2200px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}
+.info5{
+    position: absolute;
+    left: 1000px;
+    top: 2250px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    z-index: 100;
+}.yellow2{
+    position: relative;
+    left: -9px;
+    top: -350px;
+    background-color: rgb(216, 216, 72);
+    width: 1910px;
+    height: 700px;
+    z-index: 1;
+}
+.best{
+    position: absolute;
+    left: 800px;
+    top: 2700px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    z-index: 1000;
+}
+.sub-title-title{
+    position: absolute;
+    left: 550px;
+    top: 2800px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    z-index: 1000;
+}
+.photo3{
+    position: relative;
+    left: 200px;
+    top: -800px;
+    width: 300px;
+    height: 300px;
+    z-index: 100;
+}
+.photo4{
+    position: relative;
+    left: 300px;
+    top: -800px;
+    width: 300px;
+    height: 300px;
+    z-index: 100;
+}
+.photo5{
+    position: relative;
+    left: 400px;
+    top: -800px;
+    width: 300px;
+    height: 300px;
+    z-index: 100;
+}
+.photo6{
+    position: relative;
+    left: 500px;
+    top: -800px;
+    width: 300px;
+    height: 300px;
+    z-index: 100;
+}
+.company{
+    position: absolute;
+    left: 800px;
+    top: 3500px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    z-index: 100;
+}
+.numbers{
+    position: absolute;
+    left: 300px;
+    top: 3800px;
+    text-align: center;
+}
+.num1{
+    color: rgb(216, 216, 72);
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sub-num1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.numbers2{
+    position: absolute;
+    left: 650px;
+    top: 3800px;
+    text-align: center;
+}
+.numbers3{
+    position: absolute;
+    left: 1050px;
+    top: 3800px;
+    text-align: center;
+}
+.numbers4{
+    position: absolute;
+    left: 1400px;
+    top: 3800px;
+    text-align: center;
+}
+.sub-titl{
+    position: absolute;
+    left: 600px;
+    top: 4050px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.btn2{
+    position: absolute;
+    left: 850px;
+    top: 4170px;
+    width: 13%;
+    height: 8%;
+    font-size: 20px;
+    background-color: rgb(216, 216, 72);
+    border: 2px solid rgb(216, 216, 72);
+    cursor: pointer;
+}
+.blog{
+    position: absolute;
+    left: 900px;
+    top: 4500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.photo7{
+    position: relative;
+    left: 250px;
+    top: 700px;
+    width: 400px;
+    height: 300px;
+}
+.photo07{
+    position: absolute;
+    left: 270px;
+    top: 5000px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.photo8{
+    position: relative;
+    left: 350px;
+    top: 700px;
+    width: 400px;
+    height: 300px;
+}
+.photo08{
+    position: absolute;
+    left: 780px;
+    top: 5000px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.photo9{
+    position: relative;
+    left: 450px;
+    top: 700px;
+    width: 400px;
+    height: 300px;
+}
+.photo09{
+    position: absolute;
+    left: 1280px;
+    top: 5000px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn3{
+    position: absolute;
+    left: 850px;
+    top: 5200px;
+    width: 13%;
+    height: 8%;
+    font-size: 20px;
+    background-color: rgb(216, 216, 72);
+    border: 2px solid rgb(216, 216, 72);
+    cursor: pointer;
+}
+.touch{
+    position: absolute;
+    left: 300px;
+    top: 5500px;
+    color: rgb(216, 216, 72);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.first{
+    position: absolute;
+    left: 300px;
+    top: 5700px;
+    width: 300px;
+    height: 50px;
+}
+.second{
+    position: absolute;
+    left: 650px;
+    top: 5700px;
+    width: 300px;
+    height: 50px;
+}
+.address{
+    position: absolute;
+    left: 300px;
+    top: 5800px;
+    width: 650px;
+    height: 150px;
+}
+.name{
+    position: absolute;
+    left: 300px;
+    top: 5670px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name2{
+    position: absolute;
+    left: 650px;
+    top: 5670px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.address2{
+    position: absolute;
+    left: 300px;
+    top: 5770px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn4{
+    position: absolute;
+    left: 300px;
+    top: 6000px;
+    width: 13%;
+    height: 8%;
+    font-size: 20px;
+    background-color: rgb(216, 216, 72);
+    border: 2px solid rgb(216, 216, 72);
+    cursor: pointer;
+}
+.photo10{
+    position: relative;
+    left: 1100px;
+    top: 1250px;
+    width: 430px;
+    height: 520px;
+}
+.black{
+    background-color: black;
+    width: 1900px;
+    height: 70px;
+    position: relative;
+    left: -8px;
+    top: 1400px;
+}
+.facebook{
+    position: relative;
+    left: 200px;
+    top: 1355px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.instagram{
+    position: relative;
+    left: 220px;
+    top: 1355px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.twitter{
+    position: relative;
+    left: 240px;
+    top: 1355px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.linkedin{
+    position: relative;
+    left: 260px;
+    top: 1355px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.github{
+    position: relative;
+    left: 280px;
+    top: 1355px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+.copy{
+    position: absolute;
+    left: 1200px;
+    top: 6250px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+@media screen and (max-width:720px) {
+    .photo1{
+        width: 700px;
+        height: 600px;
+    }
+    .title{
+        position: absolute;
+        top: 20%;
+    }
+    .title1{
+        font-size: 40px;
+    }
+    .chicken{
+        position: absolute;
+        left: -920px;
+        top: 1500px;
+    }
+    .photo2{
+        width: 400px;
+        height: 600px;
+        position: relative;
+        left: 150px;
+        top: 400px;
+    }
+    .yellow{
+        position: relative;
+        left: 150px;
+        top: 395px;
+        width: 400px;
+        height: 600px;
+    }
+    .page2{
+        position: absolute;
+        left: -700px;
+        top: 400px;
+    }
+    .about{
+        font-size: 20px;
+    }
+    .sub-title-about{
+        font-size: 10px;
+    }
+    .info1 {
+        font-size: 10px;
+    }
+    .info2 {
+        font-size: 10px;
+    }
+    .info3 {
+        font-size: 10px;
+    }
+    .info4 {
+        font-size: 10px;
+    }
+    .info5 {
+        font-size: 10px;
+    }
+    .yellow2{
+        position: relative;
+        left: -9px;
+        top: 500px;
+        width: 700px;
+        height: 800px;
+    }
+    .photo3{
+        position: relative;
+        top: -100px;
+        left: 70px;
+        width: 200px;
+        height: 200px;
+    }
+    .photo4{
+        position: relative;
+        top: -100px;
+        left: 200px;
+        width: 200px;
+        height: 200px;
+    }
+    .photo5{
+        position: relative;
+        top: 250px;
+        left: -338px;
+        width: 200px;
+        height: 200px;
+    }
+    .photo6{
+        position: relative;
+        top: 50px;
+        left: 404px;
+        width: 200px;
+        height: 200px;
+    }
+    .best{
+        position: absolute;
+        left: 280px;
+        top: 2900px;
+        font-size: 20px;
+
+    }
+    .sub-title-title{
+        position: absolute;
+        left: 120px;
+        top: 2970px;
+        font-size: 12px;
+    }
+    .company{
+        position: absolute;
+        left: 250px;
+        top: 3800px;
+        font-size: 20px;
+    }
+    .numbers{
+        position: absolute;
+        left: 50px;
+        top: 3900px;
+    }
+    .numbers2{
+        position: absolute;
+        left: 380px;
+        top: 3900px;
+    }
+    .numbers3{
+        position: absolute;
+        left: 50px;
+        top: 4150px;
+    }
+    .numbers4{
+        position: absolute;
+        left: 380px;
+        top: 4150px;
+    }
+    .sub-titl{
+        position: absolute;
+        left: 100px;
+        top: 4400px;
+        font-size: 12px;
+    }
+    .btn2{
+        position: absolute;
+        left: 280px;
+        top: 4500px;
+        width: 100px;
+        height: 80px;
+        font-size: 15px;
+    }
+    .blog{
+        position: absolute;
+        left: 290px;
+        top: 4700px;
+        font-size: 30px;
+    }
+    .photo7{
+        position: absolute;
+        left: 70px;
+        top: 4850px;
+        width: 200px;
+        height: 200px;
+    }
+    .photo07{
+        position: absolute;
+        left: 70px;
+        top: 5050px;
+        font-size: 10px;
+    }
+    .photo8{
+        position: absolute;
+        left: 400px;
+        top: 4850px;
+        width: 200px;
+        height: 200px;
+    }
+    .photo08{
+        position: absolute;
+        left: 400px;
+        top: 5050px;
+        font-size: 10px;
+    }
+    .photo9{
+        position: absolute;
+        left: 70px;
+        top: 5150px;
+        width: 200px;
+        height: 200px;
+    }
+    .photo09{
+        position: absolute;
+        left: 70px;
+        top: 5350px;
+        font-size: 10px;
+    }
+    .btn3{
+        position: absolute;
+        left: 450px;
+        top: 5250px;
+    }
+    .touch{
+        position: absolute;
+        left: 70px;
+        top: 5600px;
+        font-size: 20px;
+    }
+    .first{
+        position: absolute;
+        left: 70px;
+        top: 5700px;
+        width: 150px;
+        height: 20px;
+    }
+    .second{
+        position: absolute;
+        left: 250px;
+        top: 5700px;
+        width: 150px;
+        height: 20px;
+    }
+    .address{
+        position: absolute;
+        left: 70px;
+        top: 5800px;
+        width: 330px;
+        height: 50px;
+    }
+    .name{
+        position: absolute;
+        left: 70px;
+        top: 5690px;
+        font-size: 10px;
+    }
+    .name2{
+        position: absolute;
+        left: 250px;
+        top: 5690px;
+        font-size: 10px;
+    }
+    .address2{
+        position: absolute;
+        left: 70px;
+        top: 5790px;
+        font-size: 10px;
+    }
+    .btn4{
+        position: relative;
+        left: 70px;
+        top: 2150px;
+    }
+    .photo10{
+        position: relative;
+        left: 350px;
+        top: 2130px;
+        width: 200px;
+        height: 200px;
+    }
+    .black{
+        position: relative;
+        left: -10px;
+        top: 2500px;
+        width: 700px;
+    }
+    .facebook{
+        position: relative;
+        left: 50px;
+        top: 2450px;
+        color: white;
+    }
+    .twitter{
+        position: relative;
+        left: 20px;
+        top: 2450px;
+        color: white;
+    }
+    .instagram{
+        position: relative;
+        left: 140px;
+        top: 2450px;
+        color: white;
+    }
+    .linkedin{
+        position: relative;
+        left: 20px;
+        top: 2450px;
+        color: white;
+    }
+    .github{
+        position: relative;
+        left: 20px;
+        top: 2450px;
+        color: white;
+    }
+    .copy{
+        position: absolute;
+        left: 300px;
+        top: 6300px;
+        font-size: 25px;
+    }
+
+}
+
+
+
+
+
+
+
+
